@@ -1,0 +1,1 @@
+this some bigginer exercices of scrapping
